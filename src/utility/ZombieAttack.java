@@ -5,6 +5,8 @@ import java.util.Scanner;
 
 public class ZombieAttack {
 
+    // zombie attack
+
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
